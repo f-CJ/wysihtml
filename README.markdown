@@ -1,6 +1,6 @@
 # wysihtml
 
-wysihtml is an extended and less strict approach on [xing/wysihtml5](https://github.com/xing/wysihtml5) open source rich text editor.
+f-CJ. wysihtml is an extended and less strict approach on [xing/wysihtml5](https://github.com/xing/wysihtml5) open source rich text editor.
 The code is library agnostic and has all dependencies bundled: No jQuery, Prototype or similar is required.
 The currently bundled dependencies are rangy.js (including textrange and selectionsaverestore modules) and base.js.
 
