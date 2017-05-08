@@ -8,6 +8,8 @@ module.exports = function(grunt) {
     'src/polyfills.js',
     'lib/base/base.js',
     'lib/rangy/rangy-core.js',
+    'lib/rangy/rangy-classapplier.js',
+    'lib/rangy/rangy-highlighter.js',
     'lib/rangy/rangy-selectionsaverestore.js',
     'lib/rangy/rangy-textrange.js',
     'src/browser.js',
